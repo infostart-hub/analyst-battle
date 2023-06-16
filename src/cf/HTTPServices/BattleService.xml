@@ -189,6 +189,35 @@
 					</Method>
 				</ChildObjects>
 			</URLTemplate>
+			<URLTemplate uuid="952edf39-fc13-45e1-aa2a-651ad954fcaa">
+				<Properties>
+					<Name>ТекущийБаттл</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Текущий баттл</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Template>/current</Template>
+				</Properties>
+				<ChildObjects>
+					<Method uuid="ac8799e9-e6ac-4af2-9932-c037c1567f3f">
+						<Properties>
+							<Name>GET</Name>
+							<Synonym>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>GET</v8:content>
+								</v8:item>
+							</Synonym>
+							<Comment/>
+							<HTTPMethod>GET</HTTPMethod>
+							<Handler>ТекущийБаттлGET</Handler>
+						</Properties>
+					</Method>
+				</ChildObjects>
+			</URLTemplate>
 		</ChildObjects>
 	</HTTPService>
 </MetaDataObject>

@@ -4,7 +4,7 @@
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
 	<ChildItems>
 		<InputField name="АдресСервераБаттла" id="1">
-			<DataPath>НаборКонстант.АдресСервераБаттла</DataPath>
+			<DataPath>НаборКонстант.Баттл_АдресСервераБаттла</DataPath>
 			<TitleLocation>Top</TitleLocation>
 			<EditMode>EnterOnInput</EditMode>
 			<ContextMenu name="АдресСервераБаттлаКонтекстноеМеню" id="2"/>
