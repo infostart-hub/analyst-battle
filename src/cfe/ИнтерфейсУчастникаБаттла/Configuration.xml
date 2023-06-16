@@ -72,6 +72,8 @@
 			<CommonModule>Баттл_КоннекторHTTP</CommonModule>
 			<CommonModule>Баттл_КоннекторHTTPВызовСервера</CommonModule>
 			<CommonModule>Баттл_КоннекторHTTPКлиентСервер</CommonModule>
+			<Constant>АдресСервераБаттла</Constant>
+			<CommonForm>БаттлФормаКонстант</CommonForm>
 			<DataProcessor>ИнтерфейсУчастникаБаттла</DataProcessor>
 		</ChildObjects>
 	</Configuration>
